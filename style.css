@@ -452,18 +452,18 @@ footer{
 
 @media screen and (max-width:1000px){
     .caixa1 {
-        height: 700px;
+        height: 600px;
         background-image: url(img/inixio/fashio.jpg);
     
     }
     
     .caixa2 {
-        height: 700px;
+        height: 600px;
         background-image: url(img/inixio/fundo.jpg);
     }
     
     .caixa3 {
-        height: 700px;
+        height: 600px;
         background-image: url(img/inixio/social.jpg);
     }
     
