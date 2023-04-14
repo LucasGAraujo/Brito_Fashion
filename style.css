@@ -452,24 +452,24 @@ footer{
 
 @media screen and (max-width:1000px){
     .caixa1 {
-        height: 600px;
-        background-image: url(img/inixio/fashio.jpg);
+        height: 1000px;
+        background-image: url(img/inixio/fashios.jpg);
     
     }
     
     .caixa2 {
-        height: 600px;
-        background-image: url(img/inixio/fundo.jpg);
+        height: 1000px;
+        background-image: url(img/inixio/fundos.jpg);
     }
     
     .caixa3 {
-        height: 600px;
-        background-image: url(img/inixio/social.jpg);
+        height: 1000px;
+        background-image: url(img/inixio/socials.jpg);
     }
     
     .caixa4 {
-        height:700px;
-        background-image: url(img/inixio/boxed.jpg);
+        height:1000px;
+        background-image: url(img/inixio/boxeds.jpg);
     }
     
     .centermenu1{
