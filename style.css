@@ -451,7 +451,27 @@ footer{
 }
 
 @media screen and (max-width:1000px){
-
+    .caixa1 {
+        height: 700px;
+        background-image: url(img/inixio/fashio.jpg);
+    
+    }
+    
+    .caixa2 {
+        height: 700px;
+        background-image: url(img/inixio/fundo.jpg);
+    }
+    
+    .caixa3 {
+        height: 700px;
+        background-image: url(img/inixio/social.jpg);
+    }
+    
+    .caixa4 {
+        height:700px;
+        background-image: url(img/inixio/boxed.jpg);
+    }
+    
     .centermenu1{
         margin-left: 2000px;
     }
