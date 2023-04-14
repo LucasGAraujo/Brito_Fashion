@@ -452,24 +452,22 @@ footer{
 
 @media screen and (max-width:1000px){
     .caixa1 {
-        height: 1000px;
-        background-image: url(img/inixio/fashios.jpg);
+        background-color: #7375a5;
     
     }
     
     .caixa2 {
-        height: 1000px;
-        background-image: url(img/inixio/fundos.jpg);
+        background-color: #503850;
     }
     
     .caixa3 {
-        height: 1000px;
-        background-image: url(img/inixio/socials.jpg);
+      
+        background-color:#e3b8b2;
     }
     
     .caixa4 {
-        height:1000px;
-        background-image: url(img/inixio/boxeds.jpg);
+    
+        background-color: #3d1c33;
     }
     
     .centermenu1{
