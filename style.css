@@ -441,11 +441,12 @@ footer{
 
 
 @media screen and (max-width:1500px){
-    .centermenu1{
-        margin-left: 100px;
-    }
+    
     .lateral1{
         display: none;
+    }
+    .fixarNoTopo{  
+        position:relative;
     }
 }
 
@@ -454,15 +455,24 @@ footer{
     .centermenu1{
         margin-left: 2000px;
     }
-    .centermenu{
-        display: none;
-    }
+    
     .logo{
         width: 400px;
     }
 }
 @media screen and (max-width:800px){
+    
+    .menu{
+        height: 20vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
     .saldao{
+        display: none;
+    }
+    #Ok{
         display: none;
     }
 
