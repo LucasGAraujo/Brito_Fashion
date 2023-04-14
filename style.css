@@ -452,21 +452,23 @@ footer{
 
 @media screen and (max-width:1000px){
     .caixa1 {
+        z-index: 1000;
         background-color: #7375a5;
     
     }
     
     .caixa2 {
+        
         background-color: #503850;
     }
     
     .caixa3 {
-      
+        z-index: 1000;
         background-color:#e3b8b2;
     }
     
     .caixa4 {
-    
+        z-index: 1000;
         background-color: #3d1c33;
     }
     
