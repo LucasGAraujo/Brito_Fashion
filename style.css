@@ -452,7 +452,7 @@ footer{
 
 @media screen and (max-width:1000px){
     .centermenu1{
-        margin-left: 2000px;
+       display: none;
     }
     
     .logo{
@@ -486,10 +486,18 @@ footer{
         align-items: center;
         flex-direction: column;
         height: 3600px;
-        
+    }
+    .indece1{
+        float: none;
+     margin-left:55px ;
+        font-size: 1.5rem;
+        padding: 45px 15px 15px 45px;
     }
     .container{
         margin-bottom: 100px;
+        margin-right: 18px;
     }
-    
+    .centermenu1{
+        display: none;
+    }
 }
